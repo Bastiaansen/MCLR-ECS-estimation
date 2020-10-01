@@ -1,0 +1,68 @@
+[
+    {
+        "model" : "CCSM3",
+        "name" : "CCSM3",
+        "control" : "control_1530",
+        "experiment" : "abrupt4x_2120"
+    },
+    {
+        "model" : "CESM 1.0.4",
+        "name" : "CESM104",
+        "control" : "control_1000",
+        "experiment" : "abrupt4x_5900"
+    },
+    {
+        "model" : "CNRM-CM6-1",
+        "name" : "CNRMCM61",
+        "control" : "control_2000",
+        "experiment" : "abrupt4x_1850"
+    },
+    {
+        "model" : "ECHAM5/MPIOM",
+        "name" : "ECHAM5MPIOM",
+        "control" : "control_100",
+        "experiment" : "abrupt4x_1001"
+    },
+    {
+        "model" : "FAMOUS",
+        "name" : "FAMOUS",
+        "control" : "control_3000",
+        "experiment" : "abrupt4x_3000"
+    },
+    {
+        "model" : "GISS-E2-R",
+        "name" : "GISSE2R",
+        "control" : "control_5525",
+        "experiment" : "abrupt4x_5001"
+    },
+    {
+        "model" : "HadCM3L",
+        "name" : "HadCM3L",
+        "control" : "control_1000",
+        "experiment" : "abrupt4x_1000"
+    },
+    {
+        "model" : "HadGEM2-ES",
+        "name" : "HadGEM2",
+        "control" : "control_239",
+        "experiment" : "abrupt4x_1299"
+    },
+    {
+        "model" : "IPSL-CM5A-LR",
+        "name" : "IPSLCM5A",
+        "control" : "control_1000",
+        "experiment" : "abrupt4x_1000"
+    },
+    {
+        "model" : "MPI-ESM-1.1",
+        "name" : "MPIESM11",
+        "control" : "control_2000",
+        "experiment" : "abrupt4x_4459"
+    },
+    {
+        "model" : "MPI-ESM-1.2",
+        "name" : "MPIESM12",
+        "control" : "control_1237",
+        "experiment" : "abrupt4x_1000"
+    }
+]

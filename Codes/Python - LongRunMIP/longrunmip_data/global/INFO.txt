@@ -1,0 +1,1 @@
+This folder contains the GLOBAL AVERAGE and YEARLY AVERAGE of the monthly data. These have been downloaded directly from the longrunmip folder! This folder should contain a new folder for each model that one wants to consider.
